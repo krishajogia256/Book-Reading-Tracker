@@ -504,8 +504,8 @@ html, body {
 /* footer  */
 .footer {
     width: 100%;
-    background: #2e4634;          /* deep green */
-    color: #F1F3E0;               /* soft cream */
+    background: #2e4634;        
+    color: #F1F3E0;               
     padding: 50px 20px;
     text-align: center;
     margin-top: 120px;
@@ -540,7 +540,7 @@ html, body {
 }
 
 .footer-links a:hover {
-    color: #D2DCB6;               /* light green hover */
+    color: #D2DCB6;               
 }
 
 .footer-copy {
