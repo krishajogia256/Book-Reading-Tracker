@@ -421,7 +421,7 @@ html, body {
 
 }
 
-.hero-btn {
+.hero-btn,.btn  {
     padding: 14px 34px;
     background-color:#778873 ; 
     color: white;
@@ -430,9 +430,11 @@ html, body {
     cursor: pointer;
     transition: 0.3s ease;
     font-family: 'Inter', sans-serif;
+    text-decoration: none; 
+    display: inline-block;
 }
 
-.hero-btn:hover {
+.hero-btn:hover,.btn:hover {
     background-color: #778873; 
 }
 .hero-heading {
